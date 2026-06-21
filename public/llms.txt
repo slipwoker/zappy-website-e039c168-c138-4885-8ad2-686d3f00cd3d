@@ -1,0 +1,104 @@
+# חלום רך — Generative Engine Optimization Map
+
+> An online store specializing in bed linens and pillowcases, offering a range of bedding essentials for home comfort. The business focuses on selling quality sleep textiles including fitted and flat sheets as well as pillow covers, catering to customers looking to upgrade their bedroom experience.
+
+---
+
+## Pages
+
+### בית
+https://-e039c168.zappy5.app
+גלו את עולם הנוחות עם סדינים איכותיים לחדר שינה וציפיות לכרית מפנקות. הפכו כל לילה לחוויה יוקרתית — היכנסו עכשיו לחלום רך ובחרו את הסט המושלם עבורכם!
+
+### אומנות
+https://-e039c168.zappy5.app/craftsmanship
+צללו מאחורי הקלעים של אומנות הטקסטיל: כך אנו יוצרים ציפיות מיטה יוקרתיות וסדינים רכים במיוחד. כל פריט מעוצב בקפידה לנוחות מושלמת — בואו להכיר את תהליך היצירה שלנו!
+
+### השראה
+https://-e039c168.zappy5.app/inspiration
+חפשו השראה לחדר השינה המושלם: טיפים לעיצוב עם סדינים איכותיים לחדר שינה וציפיות לכרית שהופכות כל מיטה למקום מפלט. קבלו רעיונות טריים שישנו את האווירה — היכנסו עכשיו!
+
+### צור קשר
+https://-e039c168.zappy5.app/contact
+יש שאלה על סדינים או ציפיות מיטה יוקרתיות? אנחנו כאן כדי לעזור לכם לבחור את המצעים שיתאימו בדיוק לחלומות שלכם. מלאו פרטים ונחזור אליכם במהירות עם מענה אישי!
+
+### Products
+https://-e039c168.zappy5.app/products
+המוצרים שלנו - חלום רך
+
+### Cart
+https://-e039c168.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-e039c168.zappy5.app/checkout
+תשלום
+
+### Login
+https://-e039c168.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-e039c168.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-e039c168.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-e039c168.zappy5.app/product/:slug
+פרטי המוצר - חלום רך
+
+### Category
+https://-e039c168.zappy5.app/category/:slug
+מוצרים - חלום רך
+
+### תודה על פנייתך
+https://-e039c168.zappy5.app/thank-you
+חלום רך - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e039c168.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e039c168.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e039c168.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חלום רך
+An online store specializing in bed linens and pillowcases, offering a range of bedding essentials for home comfort. The business focuses on selling quality sleep textiles including fitted and flat sheets as well as pillow covers, catering to customers looking to upgrade their bedroom experience.
+
+## Target Audience
+- זוגות צעירים בהקמת בית חדש
+- בעלי בתים יוקרתיים
+- חובבי עיצוב פנים
+
+## Industry
+E-commerce / Home Textiles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e039c168.zappy5.app/sitemap.xml
+- Robots: https://-e039c168.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e039c168.zappy5.app/llms-full.txt
+- Products (JSON): https://-e039c168.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-e039c168.zappy5.app/product-feed.xml
