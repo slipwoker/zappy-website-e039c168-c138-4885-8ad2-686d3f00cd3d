@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-e039c168.zappy5.app
+https://example.com
 גלו את עולם הנוחות עם סדינים איכותיים לחדר שינה וציפיות לכרית מפנקות. הפכו כל לילה לחוויה יוקרתית — היכנסו עכשיו לחלום רך ובחרו את הסט המושלם עבורכם!
 
 ### אומנות
-https://-e039c168.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 צללו מאחורי הקלעים של אומנות הטקסטיל: כך אנו יוצרים ציפיות מיטה יוקרתיות וסדינים רכים במיוחד. כל פריט מעוצב בקפידה לנוחות מושלמת — בואו להכיר את תהליך היצירה שלנו!
 
 ### השראה
-https://-e039c168.zappy5.app/inspiration
+https://example.com/inspiration
 חפשו השראה לחדר השינה המושלם: טיפים לעיצוב עם סדינים איכותיים לחדר שינה וציפיות לכרית שהופכות כל מיטה למקום מפלט. קבלו רעיונות טריים שישנו את האווירה — היכנסו עכשיו!
 
 ### צור קשר
-https://-e039c168.zappy5.app/contact
+https://example.com/contact
 יש שאלה על סדינים או ציפיות מיטה יוקרתיות? אנחנו כאן כדי לעזור לכם לבחור את המצעים שיתאימו בדיוק לחלומות שלכם. מלאו פרטים ונחזור אליכם במהירות עם מענה אישי!
 
 ### Products
-https://-e039c168.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - חלום רך
 
 ### Cart
-https://-e039c168.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-e039c168.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-e039c168.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-e039c168.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-e039c168.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-e039c168.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - חלום רך
 
 ### Category
-https://-e039c168.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - חלום רך
 
 ### תודה על פנייתך
-https://-e039c168.zappy5.app/thank-you
+https://example.com/thank-you
 חלום רך - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e039c168.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e039c168.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e039c168.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Home Textiles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e039c168.zappy5.app/sitemap.xml
-- Robots: https://-e039c168.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e039c168.zappy5.app/llms-full.txt
-- Products (JSON): https://-e039c168.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-e039c168.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
